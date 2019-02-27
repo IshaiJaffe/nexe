@@ -65,5 +65,8 @@
     "prettier": "^1.6.1",
     "ts-node": "3.3.0",
     "typescript": "^2.4.1"
+  },
+  "resolutions": {
+    "nexe/fuse-box": "3.1.0"
   }
 }
